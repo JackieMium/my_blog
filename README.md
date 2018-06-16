@@ -11,7 +11,7 @@
 ## 2018
 
 ### 6 月
-- [Shell 下字符串取子集](https://github.com/JackieMium/Blog/issues/15)
+- [Shell 下字符串取子集和重定向](https://github.com/JackieMium/Blog/issues/15)
 
 
 ### 2 月
