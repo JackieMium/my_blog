@@ -12,6 +12,7 @@
 ## 2018
 
 ### 7 月
+- [MicroSoft Open R 的安装与配置](https://github.com/JackieMium/Blog/issues/18)
 - [postgreSQL 入门](https://github.com/JackieMium/Blog/issues/17)
 
 ### 6 月
