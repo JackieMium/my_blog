@@ -12,6 +12,7 @@
 ## 2018
 
 ### 7 月
+- [SQLBolt 课程学习笔记二（6-8 课）](https://github.com/JackieMium/Blog/issues/20)
 - [SQLBolt 课程学习笔记一（1-5 课）](https://github.com/JackieMium/Blog/issues/19)
 - [Microsoft R Open 的安装与配置](https://github.com/JackieMium/Blog/issues/18)
 - [postgreSQL 入门](https://github.com/JackieMium/Blog/issues/17)
