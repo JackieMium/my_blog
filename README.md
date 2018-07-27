@@ -1,17 +1,14 @@
 ## 说明
 
-个人博客，大概会写一些 Linux、R 和生物信息之类的东西。
+个人博客，大概会写一些 Linux、R、生物信息、数据库之类的东西。
 
-本来是个 GitHub Pages + Hexo 搭建的博客，还是嫌麻烦，迁移到 Issues 中算了。
-```
-2018-03-09 迁移完成
-```
 
 ## 目录
 
 ## 2018
 
 ### 7 月
+- [SQLBolt 课程学习笔记三（9-12 课）](https://github.com/JackieMium/Blog/issues/21)
 - [SQLBolt 课程学习笔记二（6-8 课）](https://github.com/JackieMium/Blog/issues/20)
 - [SQLBolt 课程学习笔记一（1-5 课）](https://github.com/JackieMium/Blog/issues/19)
 - [Microsoft R Open 的安装与配置](https://github.com/JackieMium/Blog/issues/18)
@@ -48,3 +45,10 @@
 - [R 启动设置](https://github.com/JackieMium/Blog/issues/3)
 - [R 基础知识——数据类型](https://github.com/JackieMium/Blog/issues/2)
 - [尝试在这里建立一个博客](https://github.com/JackieMium/Blog/issues/1)
+
+-----
+
+本来是个 GitHub Pages + Hexo 搭建的博客，还是嫌麻烦，迁移到 Issues 中算了。
+```
+2018-03-09 迁移完成
+```
