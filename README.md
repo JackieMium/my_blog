@@ -9,10 +9,29 @@
 
 ### 7 月
 - [SQLBolt 课程学习笔记五（番外篇）](https://github.com/JackieMium/Blog/issues/23)
+  - SQL Topic: Subqueries
+  - SQL Topic: Unions, Intersections & Exceptions
 - [SQLBolt 课程学习笔记四（13-18 + X 课）](https://github.com/JackieMium/Blog/issues/22)
+  - SQL Lesson 13: Inserting rows
+  - SQL Lesson 14: Updating rows
+  - SQL Lesson 15: Deleting rows
+  - SQL Lesson 16: Creating tables
+  - SQL Lesson 17: Altering tables
+  - SQL Lesson 18: Dropping tables
+  - SQL Lesson X: To infinity and beyond!
 - [SQLBolt 课程学习笔记三（9-12 课）](https://github.com/JackieMium/Blog/issues/21)
+  - SQL Lesson 9: Queries with expressions
+  - SQL Lesson 10 & 11: Queries with aggregates
+  - SQL Lesson 12: Order of execution of a Query
 - [SQLBolt 课程学习笔记二（6-8 课）](https://github.com/JackieMium/Blog/issues/20)
-- [SQLBolt 课程学习笔记一（1-5 课）](https://github.com/JackieMium/Blog/issues/19)
+  - SQL Lesson 6: Multi-table queries with JOINs
+  - SQL Lesson 7: OUTER JOINs
+  - SQL Lesson 8: A short note on NULLs
+- [SQLBolt 课程学习笔记一（1-5 课）](https://github.com/JackieMium/Blog/issues/19): 
+   - SQL Lesson 1: SELECT queries 101
+   - SQL Lesson 2 & 3: Queries with constraints
+   - SQL Lesson 4: Filtering and sorting Query results
+   - SQL Review: Simple SELECT Queries
 - [Microsoft R Open 的安装与配置](https://github.com/JackieMium/Blog/issues/18)
 - [postgreSQL 入门](https://github.com/JackieMium/Blog/issues/17)
 
@@ -44,7 +63,7 @@
 - [简单的 Conda 入门](https://github.com/JackieMium/Blog/issues/4)
 
 ### 4 月
-- [R 启动设置](https://github.com/JackieMium/Blog/issues/3)
+- [R 启动设置](https://github.com/JackieMium/Blog/issues/3) 
 - [R 基础知识——数据类型](https://github.com/JackieMium/Blog/issues/2)
 - [尝试在这里建立一个博客](https://github.com/JackieMium/Blog/issues/1)
 
