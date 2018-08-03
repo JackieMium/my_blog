@@ -8,6 +8,7 @@
 ## 2018
 
 ### 8 月
+- [跟着 mimic-code 探索 MIMIC 数据之 tutorials （二）](https://github.com/JackieMium/Blog/issues/25)
 - [跟着 mimic-code 探索 MIMIC 数据之 tutorials （一）](https://github.com/JackieMium/Blog/issues/24)
 
 ### 7 月
