@@ -8,12 +8,12 @@
 ## 2018
 
 ### 8 月
-- [# 跟着 mimic-code 探索 MIMIC 数据之 notebooks CRRT （三）](https://github.com/JackieMium/Blog/issues/29)
+- [跟着 mimic-code 探索 MIMIC 数据之 notebooks CRRT（三）](https://github.com/JackieMium/Blog/issues/29)
 - [Tmux 入门和初步配置](https://github.com/JackieMium/Blog/issues/28)
-- [跟着 mimic-code 探索 MIMIC 数据之 notebooks CRRT （二）](https://github.com/JackieMium/Blog/issues/27)
-- [跟着 mimic-code 探索 MIMIC 数据之 notebooks CRRT （一） ](https://github.com/JackieMium/Blog/issues/26)
-- [跟着 mimic-code 探索 MIMIC 数据之 tutorials （二）](https://github.com/JackieMium/Blog/issues/25)
-- [跟着 mimic-code 探索 MIMIC 数据之 tutorials （一）](https://github.com/JackieMium/Blog/issues/24)
+- [跟着 mimic-code 探索 MIMIC 数据之 notebooks CRRT（二）](https://github.com/JackieMium/Blog/issues/27)
+- [跟着 mimic-code 探索 MIMIC 数据之 notebooks CRRT（一）](https://github.com/JackieMium/Blog/issues/26)
+- [跟着 mimic-code 探索 MIMIC 数据之 tutorials（二）](https://github.com/JackieMium/Blog/issues/25)
+- [跟着 mimic-code 探索 MIMIC 数据之 tutorials（一）](https://github.com/JackieMium/Blog/issues/24)
 
 ### 7 月
 - [SQLBolt 课程学习笔记五（番外篇）](https://github.com/JackieMium/Blog/issues/23)
