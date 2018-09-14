@@ -7,6 +7,9 @@
 
 ## 2018
 
+### 9 月
+- [回归分析中的共线性问题](https://github.com/JackieMium/my_blog/issues/31)
+
 ### 8 月
 - [Python 里 NumPy 的 axis 参数的理解](https://github.com/JackieMium/my_blog/issues/30)
 - [跟着 mimic-code 探索 MIMIC 数据之 notebooks CRRT（三）](https://github.com/JackieMium/Blog/issues/29)
