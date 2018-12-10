@@ -7,6 +7,9 @@
 
 ## 2018
 
+### 12 月
+- [RNA-Seq 数据处理记录](https://github.com/JackieMium/my_blog/issues/32)
+
 ### 9 月
 - [回归分析中的共线性问题](https://github.com/JackieMium/my_blog/issues/31)
 
