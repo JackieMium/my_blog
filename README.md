@@ -8,6 +8,7 @@
 ## 2018
 
 ### 12 月
+- [缺失值的简单处理—— MICE 和 Amelia 篇](https://github.com/JackieMium/my_blog/issues/33)
 - [RNA-Seq 数据处理记录](https://github.com/JackieMium/my_blog/issues/32)
 
 ### 9 月
